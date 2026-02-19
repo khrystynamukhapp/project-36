@@ -5,3 +5,6 @@ input, select { padding: 10px; border-radius: 10px; border: 1px solid #ddd; widt
 #list { list-style:none; padding:0; margin:0; display:flex; flex-direction:column; gap:10px; }
 .item { padding: 12px; border: 1px solid #eee; border-radius: 12px; }
 .badge { font-size: 12px; opacity: 0.7; }
+.item:hover {
+  background: #f0f0f0;
+}
