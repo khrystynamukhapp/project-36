@@ -38,4 +38,5 @@ categoryEl.addEventListener("change", applyFilters);
 
 render(places);
 
-console.log("CONFLICT A");
+console.log("CONFLICT RESOLVED");
+
